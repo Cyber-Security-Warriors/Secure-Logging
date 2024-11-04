@@ -98,13 +98,11 @@ This document consolidates logging controls across major security standards, foc
 
 ## References
 
-1. "NIST SP 800-92: Guide to Computer Security Log Management." NIST, 2006. [Link](https://csrc.nist.gov/publications/detail/sp/800-92/final)
-2. "ISO/IEC 27001 and ISO/IEC 27002 Standards for Information Security Management." International Organization for Standardization.
-3. "Payment Card Industry Data Security Standard (PCI DSS) Version 4.0." PCI Security Standards Council, 2022. [RSI Security Article on PCI DSS](https://blog.rsisecurity.com/breaking-down-the-pci-logging-requirements)&#8203;:contentReference[oaicite:0]{index=0}
-4. "HIPAA Security Rule: A Cybersecurity Resource Guide, NIST SP 800-66r2." NIST, 2024. [NIST Guide](https://www.nist.gov/publications/sp-800-66r2)&#8203;:contentReference[oaicite:1]{index=1}
-5. "GDPR Compliance Requirements for Logging." Penta Security, 2023. [Penta Security](https://www.pentasecurity.com/)
-6. "SOC 2 Trust Services Criteria." AICPA, 2022. [SOC 2 Overview](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/soc-2)&#8203;:contentReference[oaicite:2]{index=2}
-7. "CIS Controls and CIS Benchmarks for Logging Security." Center for Internet Security. [CIS Security Controls](https://www.cisecurity.org/controls/)
-8. "SANS Logging Security Best Practices." SANS Institute. [SANS Guidelines](https://www.sans.org)
-
-This markdown document provides a detailed and comprehensive approach to secure logging, aligned with the latest standards to ensure compliance and protection of sensitive data.
+1. [NIST SP 800-92: Guide to Computer Security Log Management](https://doi.org/10.6028/NIST.SP.800-92) - Provides guidelines for establishing secure and effective log management practices&#8203;:contentReference[oaicite:0]{index=0}.
+2. [ISO/IEC 27001 and ISO/IEC 27002 Standards for Information Security Management](https://www.iso.org/standard/54534.html) - Information security standards that include logging and monitoring controls.
+3. [PCI-DSS Version 4.0 - Requirements and Procedures](https://www.pcisecuritystandards.org/document_library) - Specific logging controls for handling cardholder data (CHD)&#8203;:contentReference[oaicite:1]{index=1}.
+4. [HIPAA Security Rule - NIST SP 800-66r2: Cybersecurity Resource Guide](https://csrc.nist.gov/publications/detail/sp/800-66/rev-2/final) - Guidelines for securing ePHI in logs&#8203;:contentReference[oaicite:2]{index=2}.
+5. [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/soc-2) - Control criteria for secure logging, auditing, and data protection.
+6. [GDPR Compliance Requirements for Logging](https://www.pentasecurity.com/) - Requirements for secure logging of personal data to comply with GDPR.
+7. [CIS Controls and Benchmarks for Secure Logging](https://www.cisecurity.org/controls/) - Security guidelines to safeguard and monitor logging systems.
+8. [SANS Logging Best Practices](https://www.sans.org) - Comprehensive security practices for log management and monitoring.
