@@ -99,7 +99,7 @@ This document consolidates logging controls across major security standards, foc
 ## References
 
 1. [Enterprise Logging: A Best Practices Approach - GuidePoint Security](https://www.guidepointsecurity.com/wp-content/uploads/2020/11/GP_WhitePaper_Logging.pdf)
-2. [OWASP Logging Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html))
+2. [OWASP Logging Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
 3. [Logging Best Practices - Crowdstrike](https://www.crowdstrike.com/en-us/cybersecurity-101/next-gen-siem/logging-best-practices/)
 4. [NIST SP 800-92 - Guide to Computer Security Log Management](https://csrc.nist.gov/pubs/sp/800/92/final)
 5. [Best Practices for Maintaining PCI DSS Compliance](https://listings.pcisecuritystandards.org/documents/PCI_DSS_V2.0_Best_Practices_for_Maintaining_PCI_DSS_Compliance.pdf) 
