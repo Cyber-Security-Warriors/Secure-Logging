@@ -98,11 +98,11 @@ This document consolidates logging controls across major security standards, foc
 
 ## References
 
-1. [NIST SP 800-92: Guide to Computer Security Log Management](https://doi.org/10.6028/NIST.SP.800-92) - Provides guidelines for establishing secure and effective log management practices&#8203;:contentReference[oaicite:0]{index=0}.
-2. [ISO/IEC 27001 and ISO/IEC 27002 Standards for Information Security Management](https://www.iso.org/standard/54534.html) - Information security standards that include logging and monitoring controls.
-3. [PCI-DSS Version 4.0 - Requirements and Procedures](https://www.pcisecuritystandards.org/document_library) - Specific logging controls for handling cardholder data (CHD)&#8203;:contentReference[oaicite:1]{index=1}.
-4. [HIPAA Security Rule - NIST SP 800-66r2: Cybersecurity Resource Guide](https://csrc.nist.gov/publications/detail/sp/800-66/rev-2/final) - Guidelines for securing ePHI in logs&#8203;:contentReference[oaicite:2]{index=2}.
-5. [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/soc-2) - Control criteria for secure logging, auditing, and data protection.
-6. [GDPR Compliance Requirements for Logging](https://www.pentasecurity.com/) - Requirements for secure logging of personal data to comply with GDPR.
-7. [CIS Controls and Benchmarks for Secure Logging](https://www.cisecurity.org/controls/) - Security guidelines to safeguard and monitor logging systems.
-8. [SANS Logging Best Practices](https://www.sans.org) - Comprehensive security practices for log management and monitoring.
+1. [Enterprise Logging: A Best Practices Approach - GuidePoint Security](https://www.guidepointsecurity.com/wp-content/uploads/2020/11/GP_WhitePaper_Logging.pdf)
+2. [OWASP Logging Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html))
+3. [Logging Best Practices - Crowdstrike](https://www.crowdstrike.com/en-us/cybersecurity-101/next-gen-siem/logging-best-practices/)
+4. [NIST SP 800-92 - Guide to Computer Security Log Management](https://csrc.nist.gov/pubs/sp/800/92/final)
+5. [Best Practices for Maintaining PCI DSS Compliance](https://listings.pcisecuritystandards.org/documents/PCI_DSS_V2.0_Best_Practices_for_Maintaining_PCI_DSS_Compliance.pdf) 
+6. [Data governance: Principles for securing and managing logs](https://services.google.com/fh/files/misc/data-governance-logs-best-practices.pdf) 
+7. [CIS Control 8: Audit Log Management](https://www.blumira.com/blog/cis-control-8) 
+8. [SANS Successful SIEM and Log Management Strategies for Audit and Compliance](https://www.sans.org/white-papers/33528/)
